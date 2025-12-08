@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0c29&height=300&section=header&text=G.%20Madhankumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Professional%20%26%20Developer&descSize=20&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=G.%20Madhankumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Professional%20%26%20Developer&descSize=20&descAlignY=60&descAlign=50)
 
 <br/>
 
@@ -226,19 +226,19 @@ I am currently diving deep into advanced areas of security and development.
   <br>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybermadhan01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybermadhan01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </p>
   
   <br>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermadhan01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermadhan01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
   
   <br>
 
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybermadhan01&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybermadhan01&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
   </p>
 
 </div>
@@ -246,5 +246,5 @@ I am currently diving deep into advanced areas of security and development.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0c29&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
 </div>
