@@ -1,11 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=G.%20Madhankumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Professional%20%26%20Developer&descSize=20&descAlignY=60&descAlign=50)
+# 👋 Hi, I'm G. Madhankumar
+### 🔐 Cybersecurity Professional & Full-Stack Developer
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33E9FF&center=true&vCenter=true&width=800&lines=Red+Teaming+%26+Blue+Teaming;Full-Stack+Web+Development;Ethical+Hacking+%26+Security+Research;Building+Secure+Digital+Environments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33E9FF&center=true&vCenter=true&width=600&lines=Red+Teaming+%26+Blue+Teaming;Full-Stack+Web+Development;Ethical+Hacking+%26+Security+Research" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -226,19 +227,19 @@ I am currently diving deep into advanced areas of security and development.
   <br>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybermadhan01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cybermadhan01&show_icons=true&theme=radical" alt="GitHub Stats" />
   </p>
   
   <br>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermadhan01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cybermadhan01&layout=compact&theme=radical" alt="Top Languages" />
   </p>
   
   <br>
 
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybermadhan01&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
+    <img align="center" src="https://streak-stats.demolab.com?user=cybermadhan01&theme=radical" alt="Streak" />
   </p>
 
 </div>
@@ -246,5 +247,9 @@ I am currently diving deep into advanced areas of security and development.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+  
+  ---
+  
+  ⭐ **From [CyberMadhan](https://github.com/cybermadhan01)** with ❤️
+  
 </div>
